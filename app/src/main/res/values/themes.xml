@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 使用 Theme.AppCompat 或其子类 -->
+    <style name="Theme.MyApplication1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 自定义主题属性 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
